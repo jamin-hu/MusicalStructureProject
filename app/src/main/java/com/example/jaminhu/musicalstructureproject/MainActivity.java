@@ -1,7 +1,12 @@
 package com.example.jaminhu.musicalstructureproject;
 
+import android.content.Intent;
+import android.media.AudioManager;
+import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -21,5 +26,14 @@ public class MainActivity extends AppCompatActivity {
         LibraryAdapter libraryAdapter = new LibraryAdapter(this, songs);
         ListView library = (ListView) findViewById(R.id.library_list);
         library.setAdapter(libraryAdapter);
+
+        library.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
+
+                Intent intent = new Intent(view.getContext(), DetailedActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }
