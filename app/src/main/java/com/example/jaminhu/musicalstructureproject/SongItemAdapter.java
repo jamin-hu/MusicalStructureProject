@@ -11,9 +11,9 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-public class LibraryAdapter extends ArrayAdapter<Song>{
+public class SongItemAdapter extends ArrayAdapter<Song>{
 
-    public LibraryAdapter(Context context, ArrayList<Song> songs) {
+    public SongItemAdapter(Context context, ArrayList<Song> songs) {
         super(context, 0, songs);
     }
 
@@ -33,9 +33,6 @@ public class LibraryAdapter extends ArrayAdapter<Song>{
 
         TextView artistTextView = (TextView) listItemView.findViewById(R.id.songArtist);
         artistTextView.setText(currentSong.getSongArtist());
-
-        TextView lyricsTextView = (TextView) listItemView.findViewById(R.id.songLyrics);
-        lyricsTextView.setText(currentSong.getSongLyrics());
 
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.songImage);
         imageView.setImageResource(currentSong.getSongImage());

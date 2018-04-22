@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="title">
+        <item>Careless Whisper</item>
+        <item>Hello</item>
+        <item>September</item>
+        <item>Celebration</item>
+        <item>Stayin\' Alive</item>
+        <item>Baby</item>
+    </array>
+    <array name="artist">
+        <item>George Michael</item>
+        <item>Lionel Richie</item>
+        <item>Earth Wind and Fire</item>
+        <item>Kool and the Gang</item>
+        <item>Bee Gees</item>
+        <item>Justin Bieber</item>
+    </array>
+    <array name="image">
+        <item>@drawable/careless</item>
+        <item>@drawable/hello</item>
+        <item>@drawable/september</item>
+        <item>@drawable/celebration</item>
+        <item>@drawable/stayin</item>
+        <item>@drawable/baby</item>
+    </array>
+    <array name="lyrics">
+        <item>
+             I feel so unsure\n
+            As I take your hand and lead you to the dance floor\n
+            As the music dies, something in your eyes\n
+            Calls to mind the silver screen\n
+            And all its sad good-byes\n\n
+            I\'m never gonna dance again\n
+            Guilty feet have got no rhythm\n
+            Though it\'s easy to pretend\n
+            I know you\'re not a fool\n\n
+            Should\'ve known better than to cheat a friend\n
+            And waste the chance that I\'ve been given\n
+            So I\'m never gonna dance again\n
+            The way I danced with you\n\n
+            Time can never mend\n
+            The careless whispers of a good friend\n
+            To the heart and mind\n
+            Ignorance is kind\n
+            There\'s no comfort in the truth\n
+            Pain is all you\'ll find\n\n
+            I\'m never gonna dance again\n
+            Guilty feet have got no rhythm\n
+            Though it\'s easy to pretend\n
+            I know you\'re not a fool\n\n
+            I should\'ve known better than to cheat a friend\n
+            And waste the chance that I\'ve been given\n
+            So I\'m never gonna dance again\n
+            The way I danced with you\n\n
+            Never without your love\n\n
+            Tonight the music seems so loud\n
+            I wish that we could lose this crowd\n
+            Maybe it\'s better this way\n
+            We\'d hurt each other with the things we\'d want to say\n\n
+            We could have been so good together\n
+            We could have lived this dance forever\n
+            But no one\'s gonna dance with me\n
+            Please stay\n\n
+            And I\'m never gonna dance again\n
+            Guilty feet have got no rhythm\n
+            Though it\'s easy to pretend\n
+            I know you\'re not a fool\n\n
+            Should\'ve known better than to cheat a friend\n
+            And waste the chance that I\'ve been given\n
+            So I\'m never gonna dance again\n
+            The way I danced with you\n\n
+            Now that you\'re gone\n
+            (Now that you\'re gone) What I did\'s so wrong, so wrong\n
+            That you had to leave me alone</item>
+        <item>
+             I\'ve been alone with you inside my mind\n
+            And in my dreams I\'ve kissed your lips a thousand times\n
+            I sometimes see you pass outside my door\n
+            Hello, is it me you\'re looking for?\n\n
+            I can see it in your eyes\n
+            I can see it in your smile\n
+            You\'re all I\'ve ever wanted, and my arms are open wide\n
+            \'Cause you know just what to say\n
+            And you know just what to do\n
+            And I want to tell you so much, I love you\n\n
+            I long to see the sunlight in your hair\n
+            And tell you time and time again how much I care\n
+            Sometimes I feel my heart will overflow\n
+            Hello, I\'ve just got to let you know\n\n
+            \'Cause I wonder where you are\n
+            And I wonder what you do\n
+            Are you somewhere feeling lonely, or is someone loving you?\n
+            Tell me how to win your heart\n
+            For I haven\'t got a clue\n
+            But let me start by saying, I love you\n\n
+            Hello, is it me you\'re looking for?\n
+            \'Cause I wonder where you are\n
+            And I wonder what you do\n
+            Are you somewhere feeling lonely, or is someone loving you?\n
+            Tell me how to win your heart\n
+            For I haven\'t got a clue\n
+            But let me start by saying I love you</item>
+        <item>
+             Do you remember the 21st night of September?\n
+            Love was changing the minds of pretenders\n
+            While chasing the clouds away\n\n
+            Our hearts were ringing\n
+            In the key that our souls were singing\n
+            As we danced in the night\n
+            Remember how the stars stole the night away\n\n
+            Hey hey hey\n
+            Ba de ya, say do you remember\n
+            Ba de ya, dancing in September\n
+            Ba de ya, never was a cloudy day\n\n
+            Ba duda, ba duda, ba duda, badu\n
+            Ba duda, badu, ba duda, badu\n
+            Ba duda, badu, ba duda\n\n
+            My thoughts are with you\n
+            Holding hands with your heart to see you\n
+            Only blue talk and love\n
+            Remember how we knew love was here to stay\n
+            Now December found the love that we shared in September\n
+            Only blue talk and love\n
+            Remember the true love we share today\n\n
+            Hey hey hey\n
+            Ba de ya, say do you remember\n
+            Ba de ya, dancing in September\n
+            Ba de ya, never was a cloudy day\n\n
+            There was a\n
+            Ba de ya, say do you remember\n
+            Ba de ya, dancing in September\n
+            Ba de ya, golden dreams were shinny days\n\n
+            The bell was ringing\n
+            Our souls were singing\n
+            Do you remember, never a cloudy day\n\n
+            There was a\n
+            Ba de ya, say do you remember\n
+            Ba de ya, dancing in September\n
+            Ba de ya, never was a cloudy day\n\n
+            There was a\n
+            Ba de ya, say do you remember\n
+            Ba de ya, dancing in September\n
+            Ba de ya, golden dreams were shinny days\n\n
+            Ba de ya de ya de ya\n
+            Ba de ya de ya de ya\n
+            Ba de ya de ya de ya de ya\n\n
+            Ba de ya de ya de ya\n
+            Ba de ya de ya de ya\n
+            Ba de ya de ya de ya de ya</item>
+        <item>
+            Yahoo! This is your celebration\n
+            Yahoo! This is your celebration\n\n
+            Celebrate good times, come on! (Let\'s celebrate)\n
+            Celebrate good times, come on! (Let\'s celebrate)\n\n
+            There\'s a party goin\' on right here\n
+            A celebration to last throughout the years\n
+            So bring your good times, and your laughter too\n
+            We gonna celebrate your party with you\n\n
+            Come on now\n\n
+            Celebration\n
+            Let\'s all celebrate and have a good time\n
+            Celebration\n
+            We gonna celebrate and have a good time\n\n
+            It\'s time to come together\n
+            It\'s up to you, what\'s your pleasure\n
+            Everyone around the world\n
+            Come on!\n\n
+            Yahoo! It\'s a celebration\n
+            Yahoo!\n\n
+            Celebrate good times, come on!\n
+            It\'s a celebration\n
+            Celebrate good times, come on!\n
+            Let\'s celebrate\n\n
+            We\'re gonna have a good time tonight\n
+            Let\'s celebrate, it\'s all right\n
+            We\'re gonna have a good time tonight\n
+            Let\'s celebrate, it\'s all right, baby\n\n
+            We\'re gonna have a good time tonight (Ce-le-bra-tion)\n
+            Let\'s celebrate, it\'s all right\n
+            We\'re gonna have a good time tonight (Ce-le-bra-tion)\n
+            Let\'s celebrate, it\'s all right\n\n
+            Yahoo!\n
+            Yahoo!\n\n
+            Celebrate good times, come on! (Let's celebrate)\n
+            Celebrate good times, come on!\n
+            It\'s a celebration!\n
+            Celebrate good times, come on! (Let's celebrate)\n\n
+            Come on and celebrate, tonight\n
+            (Celebrate good times, come on!)\n
+            \'Cause everything\'s gonna be all right\n
+            Let\'s celebrate (Celebrate good times, come on)\n
+            (Let\'s celebrate)\n
+            (Celebrate good times, come on!)\n
+            Celebration\n
+        </item>
+        <item>
+             Well, you can tell by the way I use my walk\n
+            I\'m a woman\'s man, no time to talk\n
+            Music loud and women warm, I\'ve been kicked around\n
+            Since I was born\n
+            And now it\'s alright, it\'s okay\n
+            And you may look the other way\n
+            We can try to understand\n
+            The New York Times\' effect on man\n\n
+            Whether you\'re a brother or whether you\'re a mother\n
+            You\'re stayin\' alive, stayin\' alive\n
+            Feel the city breakin\' and everybody shakin\'\n
+            And we\'re stayin\' alive, stayin\' alive\n
+            Ah, ha, ha, ha, stayin\' alive, stayin\' alive\n
+            Ah, ha, ha, ha, stayin\' alive\n\n
+            Well now, I get low and I get high\n
+            And if I can\'t get either, I really try\n
+            Got the wings of heaven on my shoes\n
+            I\'m a dancin\' man and I just can\'t lose\n
+            You know it\'s alright, it\'s okay\n
+            I\'ll live to see another day\n
+            We can try to understand\n
+            The New York Times\' effect on man\n\n
+            Whether you\'re a brother or whether you\'re a mother\n
+            You\'re stayin\' alive, stayin\' alive\n
+            Feel the city breakin\' and everybody shakin\'\n
+            And we\'re stayin\' alive, stayin\' alive\n
+            Ah, ha, ha, ha, stayin\' alive, stayin\' alive\n
+            Ah, ha, ha, ha, stayin\' alive\n\n
+            Life goin\' nowhere, somebody help me\n
+            Somebody help me, yeah\n
+            Life goin\' nowhere, somebody help me, yeah\n
+            I\'m stayin\' alive\n\n
+            Well, you can tell by the way I use my walk\n
+            I\'m a woman\'s man, no time to talk\n
+            Music loud and women warm\n
+            I\'ve been kicked around since I was born\n
+            And now it\'s all right, it\'s okay\n
+            And you may look the other way\n
+            We can try to understand\n
+            The New York Times\' effect on man\n\n
+            Whether you\'re a brother or whether you\'re a mother\n
+            You\'re stayin\' alive, stayin\' alive\n
+            Feel the city breakin\' and everybody shakin\'\n
+            And we\'re stayin\' alive, stayin\' alive\n
+            Ah, ha, ha, ha, stayin\' alive, stayin\' alive\n
+            Ah, ha, ha, ha, stayin\' alive\n\n
+            Life goin\' nowhere, somebody help me\n
+            Somebody help me, yeah\n
+            Life goin\' nowhere, somebody help me, yeah\n
+            I\'m stayin\' alive\n\n
+            Life goin\' nowhere, somebody help me\n
+            Somebody help me, yeah\n
+            Life goin\' nowhere, somebody help me, yeah\n
+            I\'m stayin\' alive\n\n
+            Life goin\' nowhere, somebody help me\n
+            Somebody help me, yeah\n
+            Life goin\' nowhere, somebody help me, yeah\n
+            I\'m stayin\' alive\n\n
+            Life goin\' nowhere, somebody help me\n
+            Somebody help me, yeah\n
+            Life goin\' nowhere, somebody help me, yeah\n
+            I\'m stayin\' alive</item>
+        <item>NO</item>
+    </array>
+</resources>

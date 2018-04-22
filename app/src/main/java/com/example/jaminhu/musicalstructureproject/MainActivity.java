@@ -1,8 +1,8 @@
 package com.example.jaminhu.musicalstructureproject;
 
 import android.content.Intent;
-import android.media.AudioManager;
-import android.media.MediaPlayer;
+import android.content.res.Resources;
+import android.content.res.TypedArray;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -19,19 +19,27 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ArrayList<Song> songs = new ArrayList<Song>();
-        songs.add(new Song("Careless Whisper", "George Michael", "I'm never gonna dance again", R.drawable.careless));
-        songs.add(new Song("Hello", "Lionel Richie", "Hello... is it me you\'re looking for?", R.drawable.hello));
-        songs.add(new Song("September", "Earth Wind and Fire", "Do you remember, the 21st night of september", R.drawable.september));
 
-        LibraryAdapter libraryAdapter = new LibraryAdapter(this, songs);
-        ListView library = (ListView) findViewById(R.id.library_list);
-        library.setAdapter(libraryAdapter);
+        Resources res = getResources();
+
+        TypedArray titleArray = res.obtainTypedArray(R.array.title);
+        TypedArray artistArray = res.obtainTypedArray(R.array.artist);
+        TypedArray imageArray = res.obtainTypedArray(R.array.image);
+
+        for (int i=0; i<titleArray.length(); i++){
+            songs.add(new Song(titleArray.getString(i), artistArray.getString(i), imageArray.getResourceId(i, -1)));
+        }
+
+        SongItemAdapter songItemAdapter = new SongItemAdapter(this, songs);
+        ListView library = findViewById(R.id.library_list);
+        library.setAdapter(songItemAdapter);
 
         library.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
 
                 Intent intent = new Intent(view.getContext(), DetailedActivity.class);
+                intent.putExtra("selectedSong", position);
                 startActivity(intent);
             }
         });
